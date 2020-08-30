@@ -2,14 +2,14 @@
   "basics": {
     "name": "Kimberly Yim",
     "label": "Student",
-    "picture": "https://kyim00.github.io/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kyim00.github.io/images/myself.jpg",
+    "email": "kcyim@hawaii.edu",
+    "phone": "",
+    "website": "https://kcyim.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,69 +17,36 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kyim00",
+        "url": "http://github.com/kyim00"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analytics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cooking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Hiking",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Language",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Cantonese and Mandarin",
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
