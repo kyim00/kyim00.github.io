@@ -53,7 +53,7 @@
       "keywords": [
         "Excel, Word, PowerPoint",
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -81,7 +81,7 @@
       ]
     }
   ],
-  "Activities": [
+  "activities": [
     {
       "organization": "Leahi Hospital",
       "website": "https://leahi.hhsc.org/",
