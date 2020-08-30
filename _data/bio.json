@@ -81,19 +81,7 @@
       ]
     }
   ],
-  "activities": [
-    {
-      "organization": "Leahi Hospital",
-      "position": "event coordinator",
-      "summary": "",
-      "highlights": [
-        "Journal of Empirical Software Engineering, 2004-2008",
-        "IEEE Transactions on Software Engineering, 2000-2004",
-        "International Journal of Computer Supported Cooperative Work, 1997-2004"
-      ]
-    },
-   ],
-  "activities": [
+  "volunteer": [
      {
       "organization": "Leahi Hospital",
       "website": "",
