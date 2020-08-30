@@ -93,6 +93,29 @@
         "Assist residents in activity-based interventions",
       ]
     },
+    {
+      "organization": "Minimally Invasive Surgery",
+      "website": "http://www.mishawaii.com/",
+      "position": "Volunteer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-05-30",
+      "summary": "Shadowed nurses, physicians, and HR staff",
+      "highlights": [
+        "Assisted in preparing patient documents and patient pre-op consultations",
+        "Restocked medical supply inventory, sterilized medical equipment, and attended to patients' needs",
+      ]
+    },
+    {
+      "organization": "All Access Ortho",
+      "website": "http://www.allaccessortho.com/",
+      "position": "Student Volunteer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-05-30",
+      "summary": "Shadowed physician assistants, medical assistants, and radiologist technicians",
+      "highlights": [
+        "Aided in evaluating X-ray images and clinic evaluations"
+      ]
+    }
   ],
 "awards": [
     {
