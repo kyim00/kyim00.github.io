@@ -42,9 +42,16 @@
   "skills": [
     {
       "name": "Language",
-      "level": "",
+      "level": "fluent",
       "keywords": [
         "Chinese (Cantonese and Mandarin)",
+      ]
+    },
+     {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Excel, Word, PowerPoint",
       ]
     },
   ],
@@ -67,7 +74,7 @@
       "website": "",
       "startDate": "2017-07-20",
       "endDate": "Present",
-      "summary": "Educate students from age 3 to high school in the math and reading curriculum",
+      "summary": "Educate students in the math and reading curriculum",
       "highlights": [
         "Teach lessons, correct work, and provide feedback to enhance student learning",
         "Prepare and file homework and assignments"
@@ -88,7 +95,7 @@
     },
     {
       "organization": "Minimally Invasive Surgery",
-      "website": "",
+      "website": "http://www.mishawaii.com/",
       "position": "Student Volunteer",
       "startDate": "2018-03-01",
       "endDate": "2018-05-30",
@@ -100,7 +107,7 @@
     },
     {
       "organization": "All Access Ortho",
-      "website": "",
+      "website": "http://www.allaccessortho.com/",
       "position": "Student Volunteer",
       "startDate": "2018-03-01",
       "endDate": "2018-05-30",
@@ -109,7 +116,7 @@
         "Aided in evaluating X-ray images and clinic evaluations",
       ]
     },
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request",
