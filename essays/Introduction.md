@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: Introduction
-# All dates must be YYYY-MM-DD format!
 date: 2020-08-30
 ---
 My name is Kimberly Yim and I am currently a third year undergraduate at the University of Hawaii majoring in Accounting and Management Information Systems.
