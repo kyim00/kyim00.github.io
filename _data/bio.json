@@ -81,10 +81,10 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
-      "organization": "",
-      "position": "Editorial Boards",
+      "organization": "Leahi Hospital",
+      "position": "Volunteer",
       "summary": "",
       "highlights": [
         "Journal of Empirical Software Engineering, 2004-2008",
@@ -96,7 +96,7 @@
   "activities": [
      {
       "organization": "Leahi Hospital",
-      "website": "https://leahi.hhsc.org/",
+      "website": "",
       "position": "Volunteer",
       "startDate": "2016-08-01",
       "endDate": "Present",
