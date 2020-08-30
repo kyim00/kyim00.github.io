@@ -71,7 +71,7 @@
     {
       "company": "Kumon Learning Center",
       "position": "Assistant Instructor",
-      "website": "",
+      "website": "https://www.kumon.com/",
       "startDate": "2017-07-20",
       "endDate": "Present",
       "summary": "Educate students in the math and reading curriculum",
@@ -84,7 +84,7 @@
   "volunteer": [
      {
       "organization": "Leahi Hospital",
-      "website": "",
+      "website": "https://leahi.hhsc.org/",
       "position": "Volunteer",
       "startDate": "2016-08-01",
       "endDate": "Present",
@@ -117,15 +117,6 @@
       ]
     }
   ],
-"awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-  ],
-
   "references": [
     {
       "name": "Available upon request",
