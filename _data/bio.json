@@ -42,7 +42,7 @@
   "skills": [
     {
       "name": "Language",
-      "level": "fluent",
+      "level": "",
       "keywords": [
         "Chinese (Cantonese and Mandarin)",
       ]
@@ -90,7 +90,7 @@
       "endDate": "Present",
       "summary": "Recreational Therapy Department Volunteer",
       "highlights": [
-        "Assist residents in activity-based interventions",
+        "Assist residents in activity-based interventions"
       ]
     },
     {
@@ -102,7 +102,7 @@
       "summary": "Shadowed nurses, physicians, and HR staff",
       "highlights": [
         "Assisted in preparing patient documents and patient pre-op consultations",
-        "Restocked medical supply inventory, sterilized medical equipment, and attended to patients' needs",
+        "Restocked medical supply inventory, sterilized medical equipment, and attended to patients' needs"
       ]
     },
     {
@@ -113,9 +113,9 @@
       "endDate": "2018-05-30",
       "summary": "Shadowed physician assistants, medical assistants, and radiologist technicians",
       "highlights": [
-        "Aided in evaluating X-ray images and clinic evaluations",
+        "Aided in evaluating X-ray images and clinic evaluations"
       ]
-    },
+    }
   ],
   "references": [
     {
