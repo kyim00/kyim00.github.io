@@ -44,14 +44,16 @@
       "name": "Language",
       "level": "",
       "keywords": [
-        "Chinese (Cantonese and Mandarin)",
+        "Chinese (Cantonese and Mandarin)"
       ]
     },
      {
       "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "Excel, Word, PowerPoint",
+        "Excel",
+        "Word",
+        "PowerPoint"
       ]
     }
   ],
