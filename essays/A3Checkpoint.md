@@ -23,6 +23,7 @@ As mentioned in checkpoint A, upon logging in, I am hopping to add a page where 
 <b>Checkpoint E: If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?</b> 
 <br>
 I am working alone and will be building off my existing website from Assignment 1 and 2.  
+
 <b>Checkpoint F: How are you approaching Assignment 3 differently than Assignment 2?</b>
 <br>
 For assignment 3, I hope it to finish it by the Sunday right before finals week. One change that I will make is to make copies of the code that I am working on and committing the work more frequently to the repo, especially for the codes that I know are functional and works. In the previous assignments, I was constantly testing things out and grabbing code from different places, but then that would end up harming me because I would break the code and end up with errors. So this time around, I will be testing my code more often and ensuring that I save the code that I delete or have original versions of my previous codes. 
