@@ -6,11 +6,11 @@ date: 2020-12-18
 ---
 <b>What was accomplished in the project as compared to what was planned?</b>
 <br>
-What I accomplished turned out to be a bit different from what I had initially planned since I had a hard time executing my original plan. I had initially wanted to have the user be able to access the cart even if they had not logged in and was planning to accomplish that by using sessions to save the user's cart information, but I had a hard time trying to figure that out and getting the information to save when the user left the page. I instead ended up saving the user's cart information to their account. Other than the mandated login before viewing the cart, the rest of the design that I had planned turned out similar. So after adding items to the cart, when the user was ready to make their purchase, they will click the submit button on the bottom and since they are already logged in, it should send them their invoice via their email.
+What I accomplished turned out to be a little bit different from what I had initially planned I had initially wanted have the user to have access to the cart even if they not logged in and was planning to accomplish that by using sessions to save the user's cart information, the user is able to access their cart, but once you log in the previous items added into the cart would disappear. The user is able to save to save their products they plan to purchase by initially logging in first which will fully ensure that their items get saved to the cart. 
 
 <b>Any notable shortcomings, bugs, problems, or additional features not implemented?</b>
 <br>
-Some issues that I had was that for some of my pages, my interface design was a bit off and not working properly. I think I was able to address all of the issues regarding that at the end though because I was having some problems where my footer would extend into my body and some of the texts were not being properly centered or the layout of the site would change. 
+I addressed it in the previous question, so that was one main issue that I had so make sure to log in before you make your purchase or add items to the cart.  
 
 <b>What was your biggest project risk and how was it managed?</b>
 <br>
