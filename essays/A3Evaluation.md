@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Assigmnent 3 Evaluation
+title: Assignment 3 Evaluation
 date: 2020-12-18
 ---
 <b>What was accomplished in the project as compared to what was planned?</b>
